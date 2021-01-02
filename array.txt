@@ -7,6 +7,10 @@
         [
             "Windows 10 Pro",
             "44RPN-FTY23-9VTTB-MP9BX-T84FV"
+        ],
+        [
+            "host: http://foxx-iptv.eu/",
+            "mac: 00:1A:79:B7:7C:64"
         ]        
     ]
 }
