@@ -3,6 +3,6 @@
         [
             "Tiger Nixon",
             "System Architect"
-        ],
+        ]
     ]
 }
