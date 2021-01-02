@@ -7,7 +7,6 @@
         [
             "Windows 10 Pro",
             "44RPN-FTY23-9VTTB-MP9BX-T84FV"
-        ]
-        
+        ]        
     ]
 }
