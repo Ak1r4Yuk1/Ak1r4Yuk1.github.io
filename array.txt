@@ -9,8 +9,8 @@
             "44RPN-FTY23-9VTTB-MP9BX-T84FV"
         ],
         [
-            "host: http://foxx-iptv.eu/",
-            "mac: 00:1A:79:B7:7C:64"
+            "HOST: http://foxx-iptv.eu/c/",
+            "MAC ADDRESS: 00:1A:79:B7:7C:64"
         ]        
     ]
 }
