@@ -5,7 +5,7 @@
             "VK7JG-NPHTM-C97JM-9MPGT-3V66T"
         ],
         [
-            "Windows 10 Pro,
+            "Windows 10 Pro",
             "44RPN-FTY23-9VTTB-MP9BX-T84FV"
         ]
         
