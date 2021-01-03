@@ -11,6 +11,14 @@
         [
             "HOST: http://foxx-iptv.eu/c/",
             "MAC ADDRESS: 00:1A:79:B7:7C:64"
-        ]        
+        ],
+        [
+            "HOST: http://digital-hd-iptv.ddns.net:8000/c/",
+            "MAC ADDRESS: 00:1A:79:0E:17:8B"
+        ],
+        [
+            "HOST: http://lazzaro.services:29500/c/",
+            "MAC ADDRESS: 00:1a:79:45:f6:e2"
+        ]       
     ]
 }
