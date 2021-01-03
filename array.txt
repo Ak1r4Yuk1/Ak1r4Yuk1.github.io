@@ -19,6 +19,18 @@
         [
             "HOST: http://lazzaro.services:29500/c/",
             "MAC ADDRESS: 00:1a:79:45:f6:e2"
+        ],
+        [
+            "NordVpn Account",
+            "Prestonb12@outlook.com:Preston1!"
+        ],
+        [
+            "NordVpn Account",
+            "turken96@gmail.com:Amundsen96"
+        ],
+        [
+            "NordVpn Account",
+            "handsomestud93@gmail.com:S2uartlittle"
         ]       
     ]
 }
