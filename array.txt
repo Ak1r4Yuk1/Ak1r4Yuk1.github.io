@@ -31,6 +31,18 @@
         [
             "HOST: http://lacasaditopolino.ddns.net:25461/c/",
             "MAC ADDRESS: 00:1a:79:42:2e:a6"
-        ]      
+        ],
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ],
+        [
+            "",
+            ""
+        ]       
     ]
 }
