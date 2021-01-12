@@ -37,11 +37,11 @@
             "MAC ADDRESS: 00:1A:79:44:AC:80"
         ],
         [
-            "HOST: http://maximiliams.ddns.net:8000",
+            "HOST: http://maximiliams.ddns.net:8000/c/",
             "MAC ADDRESS: 00:1a:79:3e:97:cc"
         ],
         [
-            "HOST: http://maximiliams.ddns.net:8000",
+            "HOST: http://maximiliams.ddns.net:8000/c/",
             "MAC ADDRESS: 00:1A:79:54:CC:CB"
         ]       
     ]
