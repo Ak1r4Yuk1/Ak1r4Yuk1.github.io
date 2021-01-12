@@ -17,28 +17,16 @@
             "QFFDN-GRT3P-VKWWX-X7T3R-8B639"
         ],
         [
-            "HOST: http://foxx-iptv.eu/c/",
-            "MAC ADDRESS: 00:1A:79:B7:7C:64"
+            "HOST: http://152.89.63.191:25461/c/",
+            "MAC ADDRESS: 00:1A:79:37:09:66"
         ],
         [
-            "HOST: http://digital-hd-iptv.ddns.net:8000/c/",
-            "MAC ADDRESS: 00:1A:79:0E:17:8B"
+            "HOST: http://152.89.63.191:25461/c/",
+            "MAC ADDRESS: 00:1A:79:01:01:01"
         ],
         [
             "HOST: http://lazzaro.services:29500/c/",
             "MAC ADDRESS: 00:1a:79:45:f6:e2"
-        ],
-        [
-            "NordVpn Account",
-            "Prestonb12@outlook.com:Preston1!"
-        ],
-        [
-            "NordVpn Account",
-            "turken96@gmail.com:Amundsen96"
-        ],
-        [
-            "NordVpn Account",
-            "handsomestud93@gmail.com:S2uartlittle"
         ],
         [
             "HOST: http://lacasaditopolino.ddns.net:25461/c/",
