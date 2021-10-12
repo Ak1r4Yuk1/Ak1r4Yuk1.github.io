@@ -17,34 +17,6 @@
             "QFFDN-GRT3P-VKWWX-X7T3R-8B639"
         ],
         [
-            "HOST: http://152.89.63.191:25461/c/",
-            "MAC ADDRESS: 00:1A:79:37:09:66"
-        ],
-        [
-            "HOST: http://152.89.63.191:25461/c/",
-            "MAC ADDRESS: 00:1A:79:01:01:01"
-        ],
-        [
-            "HOST: http://lazzaro.services:29500/c/",
-            "MAC ADDRESS: 00:1a:79:45:f6:e2"
-        ],
-        [
-            "HOST: http://lacasaditopolino.ddns.net:25461/c/",
-            "MAC ADDRESS: 00:1a:79:42:2e:a6"
-        ],
-        [
-            "HOST: http://maximiliams.ddns.net:8000/c/",
-            "MAC ADDRESS: 00:1A:79:44:AC:80"
-        ],
-        [
-            "HOST: http://maximiliams.ddns.net:8000/c/",
-            "MAC ADDRESS: 00:1a:79:3e:97:cc"
-        ],
-        [
-            "HOST: http://maximiliams.ddns.net:8000/c/",
-            "MAC ADDRESS: 00:1A:79:54:CC:CB"
-        ],
-        [
             "Windows/Office Activator",
             "https://akirayuki.it/KMS_VL_ALL-44.zip"
         ]
