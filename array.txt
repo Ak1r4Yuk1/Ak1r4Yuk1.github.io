@@ -19,6 +19,10 @@
         [
             "Windows/Office Activator",
             "https://akirayuki.it/KMS_VL_ALL-44.zip"
+        ],
+        [
+            "Windows11 Bypass TMP and SecureBOot ISO",
+            "https://mega.nz/folder/4gtmDRbY#Yur2Owt1KIyT_ku7XySaIA"
         ]
     ]
 }
