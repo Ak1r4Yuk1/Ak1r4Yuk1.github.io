@@ -3,7 +3,7 @@ var check = function() {
     document.getElementById('message').style.color = 'green';
     document.getElementById('message').innerHTML = 'Password Corretta';
     document.getElementById('message').innerHTML = '#NiceTry#';
-    document.getElementById('message2').innerHTML = "https://akirayuki.it/level3.html";
+    document.getElementById('message2').innerHTML = 'https://akirayuki.it/level3.html';
   } else {
 
   }
