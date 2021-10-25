@@ -5,8 +5,8 @@
       color:red;
       font-size: 10;
       }
-      #hidden{
-         visibility:hidden;
+      div {
+      display: none;
       }
    </style>
    <body>
@@ -45,11 +45,14 @@
          </label>
          <br>
          <br>
-         <label id="message"/>
-         <label id="lvl3"/>
-         <form id="hidden" action="level-003.html">
-            <button onclick="next()"> Prossimo Livello </button>
-         </form>
+        <center>
+	<label id="message"/>
+	<br>
       </center>
+      	<div id="hidden" style="justify">               
+               <form action="level-003.html" >
+                  <button  onclick="next()"> Prossimo Livello </button>
+               </form>
+      	</div>
    </body>
 </html>
