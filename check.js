@@ -12,5 +12,5 @@ var check = function() {
         }
 }
 var next = function() {
-	header.location('letsbegin.html')
+	window.location.href = "letsbegin.html";
 }
