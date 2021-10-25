@@ -7,3 +7,8 @@ var check = function() {
 
   }
 }
+
+
+var next = function() {
+  document.getElementById("hidden").style.display = "center";
+}
