@@ -11,6 +11,3 @@ var check = function() {
                 }}
         }
 }
-var next = function() {
-	window.location.href = "letsbegin.html";
-}
