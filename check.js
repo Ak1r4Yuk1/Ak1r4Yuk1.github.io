@@ -10,5 +10,5 @@ var check = function() {
 
 
 var next = function() {
-  document.getElementById("hidden").style.display = "center";
+  document.getElementById("hidden").style.visibility = "visible";
 }
