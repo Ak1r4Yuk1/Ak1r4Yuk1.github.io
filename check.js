@@ -9,5 +9,5 @@ var check = function() {
 }
 
 var next = function() {
-  
+  location('letsbegin.html')
 }
