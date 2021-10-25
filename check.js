@@ -3,9 +3,9 @@ var check = function() {
     document.getElementById('message').style.color = 'green';
     document.getElementById('message').innerHTML = '#NiceTry#';
     next();
-  } else {
-
-  }
+  } 
+  else {
+   }
 }
 
 var next = function() {
