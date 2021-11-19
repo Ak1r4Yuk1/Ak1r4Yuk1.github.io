@@ -5,5 +5,5 @@ chmod +x rdp.sh
 
 
 THEN 
-
+./ngrok authtoken {TOKEN} (puoi avere il token free registrandoti al sito)
 ./ngrok tcp 5901 -log=stdout
