@@ -1,0 +1,9 @@
+wget https://akirayuki.it/rdp.sh
+chmod +x rdp.sh
+./rdp.sh
+
+
+
+THEN 
+
+./ngrok tcp 5901 -log=stdout
