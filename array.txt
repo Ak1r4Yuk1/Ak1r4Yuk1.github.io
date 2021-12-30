@@ -49,23 +49,23 @@
       "http://ebest22.live:80/get.php?username=TG86RwHFpe&password=z7ZdPpHgfc&type=m3u_plus"
     ],
     [
-      "Portal: http://ciccioespositoce.ddns.net/c"
+      "Portal: http://ciccioespositoce.ddns.net/c",
       "Mac: 00:1A:79:4A:35:39"
     ],
     [
-      "Portal: http://94.130.26.1:8000/c/"
+      "Portal: http://94.130.26.1:8000/c/",
       "Mac: 00:1A:79:57:8D:32"
     ],
     [
-      "Portal: http://94.130.26.1:8000/c/"
+      "Portal: http://94.130.26.1:8000/c/",
       "Mac: 00:1A:79:80:10:0B"
     ],
     [
-      "Portal: http://94.130.26.1:8000/c/"
+      "Portal: http://94.130.26.1:8000/c/",
       "Mac: 00:1A:79:0A:18:B3"
     ],
     [
-      "Portal: http://94.130.26.1:8000/c/"
+      "Portal: http://94.130.26.1:8000/c/",
       "Mac: 00:1A:79:50:19:94"
     ]
   ]
