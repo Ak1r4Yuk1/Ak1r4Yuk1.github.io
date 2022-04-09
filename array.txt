@@ -67,6 +67,11 @@
     [
       "Portal: http://94.130.26.1:8000/c/",
       "Mac: 00:1A:79:50:19:94"
+    ],
+    [
+      "it",
+      "https://github.com/Akira96kill/Akira96kill.github.io/blob/master/tv_channels_iCUfSalXnJ.m3u"
+      
     ]
   ]
 }
