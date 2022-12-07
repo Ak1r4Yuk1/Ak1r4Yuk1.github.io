@@ -23,6 +23,10 @@
     [
       "Windows11 Bypass TMP and SecureBOot ISO",
       "https://mega.nz/folder/4gtmDRbY#Yur2Owt1KIyT_ku7XySaIA"
+    ],
+    [
+      "Bypass Windows11 Specs check",
+      "https://akirayuki.it/bypass_win11_specs.cmd"
     ]
   ]
 }
